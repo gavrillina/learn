@@ -1,0 +1,8 @@
+
+©%squid:RedundantThrowsDeclarationCheckW"qRemove the declaration of thrown exception 'org.openqa.selenium.WebDriverException' which is a runtime exception.(å”¢Ò8ÜàÅ¿,
+¤squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ş‚ÄÔıÿÿÿÿ8ÜàÅ¿,
+8squid:S1220""Move this file to a named package.8Í˜Å¿,
+¤squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Šá¬Ëûÿÿÿÿ8ÜàÅ¿,
+Isquid:S11685"+Return an empty collection instead of null.(¥¹ï8ÜàÅ¿,
+¤squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(•‚ªÙşÿÿÿÿ8ÜàÅ¿,
+Ÿsquid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¦üğ”8ÜàÅ¿,

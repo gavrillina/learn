@@ -1,0 +1,8 @@
+
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ú¾¬ûÿÿÿÿ8ßõ©Ç¿,
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(™–­Ä8ßõ©Ç¿,
+8squid:S1220""Move this file to a named package.8ßõ©Ç¿,
+]squid:S1118":Add a private constructor to hide the implicit public one.(†Ûøêúÿÿÿÿ8ßõ©Ç¿,
+Jsquid:S1612",Replace this lambda with a method reference.(™–­Ä8ßõ©Ç¿,
