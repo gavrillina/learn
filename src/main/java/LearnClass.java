@@ -35,6 +35,7 @@ public class LearnClass {
         System.out.println(jSon);
         Converter.jsonToObject(jSon);
         System.out.println(Converter.jsonToObject(jSon));
+        Converter.addJsonObjectToList(jSon);
 
     }
 }
